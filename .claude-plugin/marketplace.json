@@ -1,37 +1,18 @@
 {
-  "name": "resume-skills",
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sumeet-resume-skills",
+  "version": "1.0.0",
+  "description": "Resume optimization and career development skills for Claude Code",
   "owner": {
     "name": "Sumeet Maheshwari",
-    "url": "https://github.com/sumeet0701/ResumeSkills"
-  },
-  "metadata": {
-    "description": "Resume optimization skills for Claude Code, including ATS optimization, bullet writing, job matching, resume tailoring, quantification, formatting, LinkedIn optimization, interview preparation, and career development.",
-    "version": "1.0.0"
+    "url": "https://github.com/sumeet0701"
   },
   "plugins": [
     {
       "name": "resume-skills",
-      "source": "./",
-      "description": "A collection of resume and career skills for Claude Code covering ATS optimization, resume writing, resume tailoring, job matching, bullet writing, quantification, formatting, LinkedIn optimization, interview preparation, and career development.",
+      "description": "Resume optimization toolkit covering ATS optimization, resume bullet writing, job description analysis, resume tailoring, quantification, formatting, LinkedIn optimization, interview preparation, and career development.",
       "version": "1.0.0",
-      "author": {
-        "name": "Sumeet Maheshwari",
-        "url": "https://github.com/sumeet0701/ResumeSkills"
-      },
-      "repository": "https://github.com/sumeet0701/ResumeSkills",
-      "license": "MIT",
-      "keywords": [
-        "resume",
-        "resume-writing",
-        "resume-tailoring",
-        "ats",
-        "job-search",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "linkedin",
-        "interview-prep"
-      ],
+      "source": "./",
       "category": "career"
     }
   ]
