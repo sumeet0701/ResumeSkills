@@ -1,0 +1,23 @@
+{
+  "name": "resume-skills",
+  "displayName": "Resume Skills",
+  "version": "1.0.0",
+  "description": "Resume optimization and career development skills for Claude Code",
+  "author": {
+    "name": "Sumeet Maheshwari",
+    "url": "https://github.com/sumeet0701"
+  },
+  "repository": "https://github.com/sumeet0701/ResumeSkills",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "resume-writing",
+    "resume-tailoring",
+    "ats",
+    "job-search",
+    "career",
+    "cover-letter",
+    "linkedin",
+    "interview-prep"
+  ]
+}
